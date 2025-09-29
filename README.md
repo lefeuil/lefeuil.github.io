@@ -1,6 +1,5 @@
-# Kay Burnham
-https://lefeuil.github.io  
-public-facing profile and portfolio. 
+# https://lefeuil.github.io  
+Kay Burnham's public-facing profile and portfolio. 
 
 
 ## Academic Assignments
