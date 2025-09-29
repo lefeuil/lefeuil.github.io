@@ -1,4 +1,4 @@
-# https://lefeuil.github.io  
+# lefeuil.github.io  
 Kay Burnham's public-facing profile and portfolio. 
 
 
